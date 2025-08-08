@@ -96,7 +96,7 @@ const About: React.FC = () => {
           <div className="order-1 lg:order-2 flex justify-center">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-teal-500 shadow-xl">
               <img
-                src="https://i.pinimg.com/736x/9c/94/78/9c947886ccb815a8e1d6f211a6696f47.jpg"
+                src="https://i.pinimg.com/736x/e5/dd/4a/e5dd4a88963115a26a2e021450a8221b.jpg"
                 alt="Onkar Mahamuni"
                 className="w-full h-full object-cover"
               />

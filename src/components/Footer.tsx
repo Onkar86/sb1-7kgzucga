@@ -23,13 +23,10 @@ const Footer: React.FC = () => {
         
         <hr className="border-gray-800 my-8" />
         
-        <div className="flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; {currentYear} Onkar Mahamuni. All rights reserved.</p>
-          <div className="mt-4 md:mt-0 flex items-center">
-            <span>Made with</span>
-            <Heart className="h-4 w-4 mx-1 text-red-500 fill-current" />
-            <span>using React & Tailwind CSS</span>
-          </div>
+        <div className="flex justify-center items-center">
+          <p className="text-center w-full opacity-60 text-lg italic tracking-wider" style={{letterSpacing: '0.1em'}}>
+            © {currentYear} Onkar Mahamuni. All rights reserved.
+          </p>
         </div>
       </div>
     </footer>

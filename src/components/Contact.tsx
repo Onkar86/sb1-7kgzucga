@@ -71,17 +71,17 @@ const Contact: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-lg font-medium text-white">Email</h4>
-                    <p className="mt-1 text-gray-300">onkar.mahamuni@example.com</p>
+                    <p className="mt-1 text-gray-300">mahamunio59@gmail.com</p>
                   </div>
                 </div>
                 
                 <div className="pt-8">
                   <h4 className="text-lg font-medium text-white mb-4">Connect With Me</h4>
                   <div className="flex space-x-4">
-                    <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" className="bg-gray-700 p-3 rounded-full text-gray-300 hover:text-white hover:bg-blue-600 transition-colors">
+                    <a href="www.linkedin.com/in/onkar-mahamuni-313a34193" target="_blank" rel="noopener noreferrer" className="bg-gray-700 p-3 rounded-full text-gray-300 hover:text-white hover:bg-blue-600 transition-colors">
                       <Linkedin className="h-6 w-6" />
                     </a>
-                    <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="bg-gray-700 p-3 rounded-full text-gray-300 hover:text-white hover:bg-gray-900 transition-colors">
+                    <a href="https://github.com/Onkar86" target="_blank" rel="noopener noreferrer" className="bg-gray-700 p-3 rounded-full text-gray-300 hover:text-white hover:bg-gray-900 transition-colors">
                       <Github className="h-6 w-6" />
                     </a>
                     <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" className="bg-gray-700 p-3 rounded-full text-gray-300 hover:text-white hover:bg-blue-400 transition-colors">

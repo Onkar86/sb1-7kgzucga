@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
             </p>
             <div className="flex justify-center mt-8">
               <img 
-                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://i.pinimg.com/736x/e5/dd/4a/e5dd4a88963115a26a2e021450a8221b.jpg" 
                 alt="Onkar Mahamuni" 
                 className="rounded-full w-32 h-32 object-cover border-4 border-teal-400 shadow-lg"
               />
